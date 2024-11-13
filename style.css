@@ -9,20 +9,20 @@
 - El anchor tiene que tener un color “plum” y un font-style: italic.
 - Los h3 deben de tener también el font-style: italic.
 - La imagen debe de tener un border-radius de 1 rem."*/
-*{
+/* *{
     padding: 0;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-body{
+} */
+/* body{
     background-color: lightcyan;
-}
-main{
+} */
+/* main{
     padding-top: 1rem;
     padding-left: 1rem;
     color: black;
-}
-ol, ul{
+} */
+/* ol, ul}
     padding-left: 2rem;
 }
 .like{
@@ -45,4 +45,4 @@ h3{
 img{
     border-radius: 1rem;
     width: 400px;
-}
+} */
