@@ -3,8 +3,8 @@ let product= "bandeja paisa";
 //declaracion variable en linea
 let price= "50.000", dimensions=0;
 //declaracion varias variables en una misma linea
-product="paisa bandeja";
-alert(product);
+// product="paisa bandeja";
+// alert(product);
 // let return=true; ->no se pueden declarar variables con palabras reservadas
 let pokemon="charizard";
 
