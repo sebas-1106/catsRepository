@@ -1,3 +1,4 @@
+// hecho por el parcero
 let body= document.getElementsByTagName("body");
 let main= document.getElementsByTagName("main");
 let ol= document.getElementsByTagName("ol");
